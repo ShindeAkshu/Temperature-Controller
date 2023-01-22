@@ -13,9 +13,10 @@
  -npm start
 ```
 ---
-##ScreenShots
+## ScreenShots
 
-![Uploading Temperature_Control.png…]()
+![Temperature_Control](https://user-images.githubusercontent.com/109291177/213931395-770411f1-1d40-4e23-bb12-3a225c666e2a.png)
+
 ![Temperature_Control2](https://user-images.githubusercontent.com/109291177/213931214-3d20b028-78f0-4542-b065-f1e20c09f185.png)
 
 
